@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "70dp"
     },
     "_left_": {
         "type": "string",
-        "value": "161dp"
+        "value": "83dp"
     },
     "_margin_": [
         6,
@@ -25,7 +25,7 @@
     "_text_": "Button",
     "_top_": {
         "type": "string",
-        "value": "396dp"
+        "value": "270dp"
     },
     "_width_": {
         "type": "string",
